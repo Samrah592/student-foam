@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    color:#fdfafa;
+  }
+  .container {
+    max-width: 400px;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #80d75b;
+  }
+  label {
+    font-weight: bold;
+    margin-top: 1rem;
+    display: block;
+  }
+  input, select {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.3rem;
+    margin-bottom: 1rem;
+  }
+  button {
+    padding: 0.7rem;
+    background: rgb(4, 4, 4);
+    color: white;
+    border: none;
+    width: 100%;
+    font-size: 1rem;
+  }
